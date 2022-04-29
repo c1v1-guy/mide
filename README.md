@@ -8,6 +8,7 @@
 - filemanager 🟨
 - terminal based 💚
 - many colorschemes 🌈
+- integrated terminal :rage1:
 - minimal memory usage 🐏
 - simple shortcuts 🤬
 
