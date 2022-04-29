@@ -4,7 +4,7 @@ echo "1) Arch linux"
 echo "2) Debian"
 echo "3) Fedora"
 read -p "Select needed distro: " distro
-    case $color in
+    case $distro in
       "1")
       	sudo pacman -Sy micro
       ;;
