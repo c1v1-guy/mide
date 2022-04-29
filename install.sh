@@ -6,13 +6,13 @@ echo "3) Fedora"
 read -p "Select needed distro: " distro
     case $distro in
       "1")
-      	sudo pacman -Sy micro
+      	sudo pacman -Sy micro fzf ctags
       ;;
       "2")
-      	sudo apt update && sudo apt install micro
+      	sudo apt update && sudo apt install micro fzf ctags
       ;;
       "3")
-      	sudo dng update && sudo dnf install micro
+      	sudo dng update && sudo dnf install micro fzf ctags
       ;;
     esac
 rm -r $HOME/.config/micro/*
