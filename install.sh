@@ -12,7 +12,7 @@ read -p "Select needed distro: " distro
       	sudo apt update && sudo apt install micro fzf ctags
       ;;
       "3")
-      	sudo dng update && sudo dnf install micro fzf ctags
+      	sudo dnf update && sudo dnf install micro fzf ctags
       ;;
     esac
 rm -r $HOME/.config/micro/*
