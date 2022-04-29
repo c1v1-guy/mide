@@ -1,0 +1,7 @@
+{
+    "colorscheme": "gruvbox",
+    "softwrap": true,
+    "statusformatl": " $(filename) ",
+    "statusformatr": "$(modified)($(line),$(col)) $(status.paste)| $(opt:filetype) | $(opt:fileformat) | $(opt:encoding) ",
+    "xterm": true
+}
