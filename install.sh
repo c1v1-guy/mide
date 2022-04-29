@@ -17,4 +17,4 @@ read -p "Select needed distro: " distro
     esac
 rm -r $HOME/.config/micro/*
 cp -r staff/* $HOME/.config/micro/
-
+micro --plugin update
