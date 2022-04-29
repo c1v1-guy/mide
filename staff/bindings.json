@@ -4,7 +4,8 @@
     "Alt-f": "command:format",
     "Alt-k": "command:hover",
     "Alt-r": "command:references",
+    "Alt-t": "command:tree",
     "CtrlSpace": "command:lspcompletion",
     "CtrlUnderscore": "lua:comment.comment",
-    "Alt-t": "command:tree"
+    "F4": "command:jumptag"
 }
