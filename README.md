@@ -1,4 +1,4 @@
-![title](https://media.discordapp.net/attachments/955362477137362954/969706886423281765/nmGv0T7U_4x.png?raw=true)
+# MICRIC
 
 ## Minimalistic `IDE` in top of `micro` text editor 
 # inspired by lvim <img src="https://media.discordapp.net/attachments/955362477137362954/969692269991047178/82431193.png?raw=true" width="32px">
