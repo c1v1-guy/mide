@@ -1,8 +1,6 @@
 ![title](https://media.discordapp.net/attachments/955362477137362954/969706886423281765/nmGv0T7U_4x.png?raw=true)
-
-## Minimalistic `IDE` in top of `micro` text editor
+## -------------------- Minimalistic `IDE` in top of `micro` text editor --------------------
 ## inspired by lvim   <img src="https://media.discordapp.net/attachments/955362477137362954/969692269991047178/82431193.png?raw=true" width="32px">
-
 # Some features :muscle:
 - lsp support 🟦
 - minimal memory usage 🟥
@@ -12,13 +10,11 @@
 - integrated terminal :rage1:
 - minimal memory usage 🐏
 - simple shortcuts 🤬
-
 # Dependencies ♒
 - `micro` 🥇
 - `xclip` (*or `xsel`*) 🥈
 - `fzf` 🥉
 - `ctags` 🈴
-
 # Installation
 ```fish
 git clone https://github.com/ssleert/micric.git
