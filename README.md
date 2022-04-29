@@ -12,10 +12,10 @@
 - simple shortcuts 🤬
 
 # Dependencies ♒
-- `micro` 
-- `xclip` (*or `xsel`*)
-- `fzf`
-- `ctags`
+- `micro` 🥇
+- `xclip` (*or `xsel`*) 🥈
+- `fzf` 🥉
+- `ctags` 🈴
 
 # Installation
 ```fish
