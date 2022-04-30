@@ -1,5 +1,5 @@
 #!/bin/sh
-echo "micric installation script 0.1"
+echo "mide installation script 0.1"
 echo "1) Arch linux"
 echo "2) Debian"
 echo "3) Fedora"
@@ -17,4 +17,6 @@ read -p "Select needed distro: " distro
     esac
 rm -r $HOME/.config/micro/*
 cp -r staff/* $HOME/.config/micro/
+sudo ln -s /usr/bin/micro /usr/bin/mide
 micro --plugin update
+
