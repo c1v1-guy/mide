@@ -18,12 +18,12 @@
 - `ctags` 🈴
 # Installation
 ```fish
-git clone https://github.com/ssleert/micric.git
+git clone https://github.com/ssleert/mide.git
 cd micric
 chmod +x install.sh
 ./install.sh
 ```
 ## then choose your distribution 👨‍🦲
-![install](https://cdn.discordapp.com/attachments/955362477137362954/969694168425300035/2022-04-29_23-18.png?raw=true)
+![install](https://cdn.discordapp.com/attachments/955362477137362954/969872660811100170/2022-04-30_11-07.png?raw=true)
 # 🔥Screenshot🔥
 ![micric](https://cdn.discordapp.com/attachments/955362477137362954/969686986770227210/2022-04-29_22-49.png?raw=true)
