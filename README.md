@@ -19,7 +19,7 @@
 # Installation
 ```fish
 git clone https://github.com/ssleert/mide.git
-cd micric
+cd mide
 chmod +x install.sh
 ./install.sh
 ```
