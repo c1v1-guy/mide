@@ -4,6 +4,7 @@
 # inspired by lvim <img src="https://media.discordapp.net/attachments/955362477137362954/969692269991047178/82431193.png?raw=true" width="32px">
 # Some features 💪
 - lsp support 🟦
+- autocomplete 🫀
 - minimal memory usage 🟥
 - filemanager 🟨
 - terminal based 💚
@@ -11,6 +12,7 @@
 - integrated terminal :rage1:
 - minimal memory usage 🐏
 - simple shortcuts 🤬
+- word count ♈
 # Dependencies ♒
 - `micro` 🥇
 - `xclip` (*or `xsel`*) 🥈
