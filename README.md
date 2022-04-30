@@ -1,8 +1,8 @@
-# MICRIC
+# MIDE
 
 ## Minimalistic `IDE` in top of `micro` text editor 
 # inspired by lvim <img src="https://media.discordapp.net/attachments/955362477137362954/969692269991047178/82431193.png?raw=true" width="32px">
-# Some features :muscle:
+# Some features 💪
 - lsp support 🟦
 - minimal memory usage 🟥
 - filemanager 🟨
