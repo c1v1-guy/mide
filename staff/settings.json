@@ -1,5 +1,4 @@
 {
-    "autosave": 1,
     "colorscheme": "gruvbox",
     "softwrap": true,
     "statusformatl": " $(filename) $(modified) ",
