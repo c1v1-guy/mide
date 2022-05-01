@@ -5,6 +5,8 @@
     "Alt-k": "command:hover",
     "Alt-r": "command:references",
     "Alt-t": "command:tree",
+    "Alt-o": "command:hsplit",
+    "Alt-p": "command:vsplit",
     "CtrlSpace": "command:lspcompletion",
     "CtrlUnderscore": "lua:comment.comment",
     "F4": "command:jumptag"
