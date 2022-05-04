@@ -28,4 +28,4 @@ chmod +x install.sh
 ## then choose your distribution 👨‍🦲
 ![install](https://cdn.discordapp.com/attachments/955362477137362954/969872660811100170/2022-04-30_11-07.png?raw=true)
 # 🔥Screenshot🔥
-![micric](https://cdn.discordapp.com/attachments/955362477137362954/970099744888197150/2022-05-01_02-09.png?raw=true)
+![mide](https://cdn.discordapp.com/attachments/955362477137362954/970099744888197150/2022-05-01_02-09.png?raw=true)
