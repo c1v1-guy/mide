@@ -15,8 +15,8 @@ read -p "Select needed distro: " distro
       	sudo dnf update && sudo dnf install micro fzf ctags
       ;;
     esac
-rm -r $HOME/.config/micro/*
+sudo rm -r $HOME/.config/micro/*
 cp -r staff/* $HOME/.config/micro/
 sudo ln -s /usr/bin/micro /usr/bin/mide
-micro --plugin update
+mide --plugin update
 
