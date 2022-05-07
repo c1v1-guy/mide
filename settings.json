@@ -1,0 +1,6 @@
+{
+    "colorscheme": "gruvbox",
+    "softwrap": true,
+    "statusformatl": " $(modified)$(filename) | $(status.size) ",
+    "statusformatr": "  $(opt:encoding) | $(opt:fileformat) | $(opt:filetype) | $(line):$(col) "
+}
