@@ -37,6 +37,7 @@
 - `ctags` 🈴
 
 # Installation
+## install dependencies
 ### for Debian based <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Openlogo-debianV2.svg/1200px-Openlogo-debianV2.svg.png?raw=true" width="20px"> (*like Ubuntu or mint*)
 
 ```fish
@@ -59,7 +60,12 @@ sudo dnf install micro xclip fzf ctags
 
 #### for OpenSUSE <img src="https://en.opensuse.org/images/4/44/Button-filled-colour.png?raw=true" width="20px">
 
+```fish
+sudo zypper install micro xclip fzf ctags
+```
 
+
+# git clone in .config
 ```bash
 git clone https://github.com/ssleert/mide.git ~/.config/micro
 ```
