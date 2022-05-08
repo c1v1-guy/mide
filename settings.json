@@ -1,9 +1,9 @@
 {
     "colorscheme": "gruvbox",
-    "savecursor": true,
-    "saveundo": true,
     "lsp.formatOnSave": true,
     "lsp.server": "lua=lua-lsp, rust=rls, python=pyls, go=gopls, typescript=deno lsp={\"importMap\": \"./import_map.json\"}",
+    "savecursor": true,
+    "saveundo": true,
     "softwrap": true,
     "statusformatl": " $(modified)$(filename) | $(status.size) ",
     "statusformatr": "  $(opt:encoding) | $(opt:fileformat) | $(opt:filetype) | $(line):$(col) "
