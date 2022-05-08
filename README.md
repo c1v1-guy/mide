@@ -41,7 +41,7 @@
 ### for Debian based <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Openlogo-debianV2.svg/1200px-Openlogo-debianV2.svg.png?raw=true" width="20px"> (*like Ubuntu or mint*)
 
 ```fish
-sudo apt install micro xclip fzf ctags
+sudo apt update && sudo apt install micro xclip fzf ctags
 ```
 
 ### for Arch based <img src="https://wiki.installgentoo.com/images/f/f9/Arch-linux-logo.png?raw=true" width="20px"> (*like Manjaro or EndeavourOS*)
@@ -55,13 +55,13 @@ sudo pacman -Sy micro xclip fzf ctags
 #### for Fedora <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fedora_logo.svg/1024px-Fedora_logo.svg.png?raw=true" width="20px">
 
 ```fish
-sudo dnf install micro xclip fzf ctags
+sudo dnf update && sudo dnf install micro xclip fzf ctags
 ```
 
 #### for OpenSUSE <img src="https://en.opensuse.org/images/4/44/Button-filled-colour.png?raw=true" width="20px">
 
 ```fish
-sudo zypper install micro xclip fzf ctags
+sudo zypper update && sudo zypper install micro xclip fzf ctags
 ```
 
 
