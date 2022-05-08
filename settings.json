@@ -2,7 +2,6 @@
     "colorscheme": "gruvbox",
     "lsp.formatOnSave": true,
     "lsp.server": "lua=lua-lsp, rust=rls, python=pyls, go=gopls, typescript=deno lsp={\"importMap\": \"./import_map.json\"}",
-    "relativeruler": true,
     "savecursor": true,
     "saveundo": true,
     "softwrap": true,
