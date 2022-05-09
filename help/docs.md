@@ -119,6 +119,8 @@ Warning! The function keys may not work in all terminals!
 
 ## MIDE keybindings
 
+### lsp and some features
+
 | key                         | Description of function                                                                   |
 |---------------------------- |------------------------------------------------------------------------------------------ |
 | Alt-k                       | Hover                                                                                     |
