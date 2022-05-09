@@ -20,6 +20,8 @@
 | mv file1 file2              | Move file                                                                                 |
 
 
+## Micro key bindings 
+
 ### Navigation
 
 | Key                         | Description of function                                                                   |
@@ -42,7 +44,80 @@
 | Ctrl-w                      | Cycle between splits in the current tab (use `> vsplit` or `> hsplit` to create a split)  |
 
 
-## MIDE options
+### Tabs
+
+| Key     | Description of function   |
+|-------- |-------------------------  |
+| Ctrl-t  | Open a new tab            |
+| Alt-,   | Previous tab              |
+| Alt-.   | Next tab                  |
+
+
+### Find Operations
+
+| Key       | Description of function                   |
+|---------- |------------------------------------------ |
+| Ctrl-f    | Find (opens prompt)                       |
+| Ctrl-n    | Find next instance of current search      |
+| Ctrl-p    | Find previous instance of current search  |
+
+
+### File Operations
+
+| Key       | Description of function                                           |
+|---------- |------------------------------------------------------------------ |
+| Ctrl-q    | Close current file (quits micro if this is the last file open)    |
+| Ctrl-o    | Open a file (prompts for filename)                                |
+| Ctrl-s    | Save current file                                                 |
+
+
+### Macros
+
+| Key       | Description of function                                                           |
+|---------- |---------------------------------------------------------------------------------- |
+| Ctrl-u    | Toggle macro recording (press Ctrl-u to start recording and press again to stop)  |
+| Ctrl-j    | Run latest recorded macro                                                         |
+
+
+### Multiple cursors
+
+| Key               | Description of function                                                                       |
+|------------------ |---------------------------------------------------------------------------------------------- |
+| Alt-n             | Create new multiple cursor from selection (will select current word if no current selection)  |
+| Alt-Shift-Up      | Spawn a new cursor on the line above the current one                                          |
+| Alt-Shift-Down    | Spawn a new cursor on the line below the current one                                          |
+| Alt-p             | Remove latest multiple cursor                                                                 |
+| Alt-c             | Remove all multiple cursors (cancel)                                                          |
+| Alt-x             | Skip multiple cursor selection                                                                |
+| Alt-m             | Spawn a new cursor at the beginning of every line in the current selection                    |
+| Ctrl-MouseLeft    | Place a multiple cursor at any location                                                       |
+
+
+### Other
+
+| Key       | Description of function                                                               |
+|---------- |-------------------------------------------------------------------------------------- |
+| Ctrl-g    | Open help file                                                                        |
+| Ctrl-h    | Backspace (old terminals do not support the backspace key and use Ctrl+H instead)     |
+| Ctrl-r    | Toggle the line number ruler                                                          |
+
+
+### Function keys.
+
+Warning! The function keys may not work in all terminals! 
+
+| Key   | Description of function   |
+|------ |-------------------------- |
+| F1    | Open help                 |
+| F2    | Save                      |
+| F3    | Find                      |
+| F4    | Quit                      |
+| F7    | Find                      |
+| F10   | Quit                      |
+
+
+
+## MIDE keybindings
 
 | key                         | Description of function                                                                   |
 |---------------------------- |------------------------------------------------------------------------------------------ |
@@ -59,7 +134,7 @@
 | F5                          | Count words in file                                                                       |
 
 
-### commands for optimize work with text
+### Сommands for optimize work with text
 
 | Command                     | Description of function                                                                   |
 |---------------------------- |------------------------------------------------------------------------------------------ |
@@ -74,47 +149,3 @@
 | angle                       | Angle brackets                                                                            |
 | dquote                      | Double quotes                                                                             |
 | squote                      | Single quotes                                                                             |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
