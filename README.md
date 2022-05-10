@@ -65,9 +65,10 @@ sudo zypper update && sudo zypper install micro xclip fzf ctags
 ```
 
 
-# git clone in .config
+# git clone and update plugins
 ```bash
 git clone https://github.com/ssleert/mide.git ~/.config/micro
+micro --plugin update
 ```
 
 # Files Structure
