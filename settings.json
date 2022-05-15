@@ -1,7 +1,9 @@
 {
     "colorscheme": "gruvbox",
+    "cursorline": false,
     "diff": false,
     "literate": false,
+    "lsp.formatOnSave": true,
     "savecursor": true,
     "saveundo": true,
     "scrollspeed": 1,
