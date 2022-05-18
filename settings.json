@@ -14,30 +14,3 @@
     "statusformatl": " $(modified)$(filename) | $(status.size) ",
     "statusformatr": "  $(opt:encoding) | $(opt:fileformat) | $(opt:filetype) | $(line):$(col) "
 }
-
-
-
-{
-    "autosu": true,
-    "basename": true,
-    "colorscheme": "gruvbox",
-    "cursorline": false,
-    "diff": false,
-    "divreverse": false,
-    "fastdirty": true,
-    "hlsearch": true,
-    "infobar": false,
-    "linter": false,
-    "literate": false,
-    "mkparents": true,
-    "rmtrailingws": true,
-    "savecursor": true,
-    "saveundo": true,
-    "scrollmargin": 10,
-    "scrollspeed": 1,
-    "softwrap": true,
-    "status": false,
-    "statusformatl": " $(filename) $(modified)",
-    "statusformatr": "",
-    "xterm": true
-}
