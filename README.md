@@ -6,8 +6,6 @@
 
 # Minimalistic `IDE` on top of `micro` text editor 🗒️
 
-# inspired by lvim <img src="https://media.discordapp.net/attachments/955362477137362954/969692269991047178/82431193.png?raw=true" width="32px">
-
 # Plugins list
 - [filemanager](https://github.com/NicolaiSoeborg/filemanager-plugin) - filemanager tree plugin
 - [fzf](https://github.com/micro-editor/updated-plugins/tree/master/fzf) - fuzzy finder for micro
