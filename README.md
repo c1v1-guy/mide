@@ -98,16 +98,6 @@ mide
       ├── nordcolors               # nord color scheme because i like nord colors
       │    ├── nordcolors.lua
       │    └── ...
-      ├── rpc                      # discord precense plugin for show activity in discord
-      │    └── discord-rpc         # libs for discord presence
-      │         ├── linux-dynamic  # linux dinamic libs
-      │         │    ├── include			
-      │         │    └── lib
-      │         ├── linux-static   # linux static libs
-      │         │    ├── include
-      │         │    └── lib
-      │         ├── discord.lua
-      │         └── ...
       └── wc                       # Word Counter plugin
            ├── wc.lua
            └── ...
