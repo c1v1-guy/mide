@@ -13,5 +13,5 @@
     "scrollspeed": 1,
     "softwrap": true,
     "statusformatl": " $(modified)$(filename) | $(status.size) ",
-    "statusformatr": "  $(opt:encoding) | $(opt:fileformat) | $(opt:filetype) | $(line):$(col) "
+    "statusformatr": "  $(opt:encoding) | $(opt:fileformat) | $(opt:filetype) | $(percentage)% | $(line):$(col) "
 }
