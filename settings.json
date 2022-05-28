@@ -1,5 +1,6 @@
 {
     "colorscheme": "gruvbox",
+    "diffgutter": true,
     "cursorline": false,
     "divreverse": false,
     "hlsearch": true,
